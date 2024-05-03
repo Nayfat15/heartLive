@@ -1,0 +1,13 @@
+.contenedor{
+    margin: 400px 0px 0px 0px;
+}
+button{
+    font-size: xx-large;
+    padding: 0.75em;
+}
+#yesBtn{
+    transform: translate(-100%,0);
+}
+#noBtn{
+    position: absolute;
+}
